@@ -4,7 +4,7 @@ This project analyzes water quality data for Brisbane using R.
 ## Data Sources
 The water quality data for Brisbane was obtained from the following source:
 
-Brisbane Water Quality Data[https://www.kaggle.com/datasets/downshift/water-quality-monitoring-dataset]
+[Brisbane Water Quality Data](https://www.kaggle.com/datasets/downshift/water-quality-monitoring-dataset)
 
 ### R Package Installation
 
@@ -28,7 +28,7 @@ The plot will be saved as `plot.png` in the `plots` directory.
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 
 
