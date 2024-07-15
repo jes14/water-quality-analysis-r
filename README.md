@@ -6,7 +6,7 @@ The water quality data for Brisbane was obtained from the following source:
 
 [Brisbane Water Quality Data](https://www.kaggle.com/datasets/downshift/water-quality-monitoring-dataset)
 
-### R Package Installation
+## R Package Installation
 
 Open R in the terminal and install the necessary packages:
 
