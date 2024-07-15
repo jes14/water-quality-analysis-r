@@ -14,7 +14,6 @@ Open R in the terminal and install the necessary packages:
 install.packages("dplyr")
 install.packages("ggplot2")
 install.packages("readr")
-install.packages("httpgd")
 ```
 
 ## Running the Analysis
@@ -24,7 +23,7 @@ Rscript scripts/analysis.R
 
 ## Viewing the Plot
 
-The plot will be saved as `plot.png` in the `plots` directory. 
+The plot will be saved in the `plots` directory. 
 
 ## License
 
